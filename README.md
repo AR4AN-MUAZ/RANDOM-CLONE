@@ -7,8 +7,8 @@
 
 pkg i git
 
-pkg i python
-
+pkg i python 
+    
 pip install bs4
 
 pip install requests
@@ -27,7 +27,7 @@ _𝚃𝙷𝙰𝙽𝙺𝚂 𝙰𝙻𝙻 𝙵𝙾𝙻𝙻𝙾𝚆 𝙼𝙴𝙷 �
  
   ___SINGLE COMMAND___
   
-   rm -rf RANDOM-CLONE;git clone https://github.com/AR4AN-MUAZ/RANDOM-CLONE.git;cd RANDOM-CLONE;chmod +x *./NORIX.py
+    rm -rf RANDOM-CLONE;git clone https://github.com/AR4AN-MUAZ/RANDOM-CLONE.git;cd RANDOM-CLONE;chmod +x *./NORIX.py
 
 
 
