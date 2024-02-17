@@ -13,19 +13,21 @@ pip install bs4
 
 pip install requests
 
-rm -rf NORIX
+rm -rf RANDOM-CLONE 
 
 git clone https://github.com/AR4AN-MUAZ/NORIX.git
 
-cd NORIX
+chmod +x *
 
-python NORIX.py
+cd RANDOM-CLONE
+
+./NORIX.py
  
 _𝚃𝙷𝙰𝙽𝙺𝚂 𝙰𝙻𝙻 𝙵𝙾𝙻𝙻𝙾𝚆 𝙼𝙴𝙷 𝙾𝙽 𝙶𝙸𝚃𝙷𝚄𝙱__
  
   ___SINGLE COMMAND___
   
-   rm -rf NORIX;git clone https://github.com/AR4AN-MUAZ/NORIX.git;cd NORIX;python NORIX.py
+   rm -rf RANDOM-CLONE;git clone https://github.com/AR4AN-MUAZ/RANDOM-CLONE.git;cd RANDOM-CLONE;chmod +x *./NORIX.py
 
 
 
